@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="284c0ba5-7f56-4f73-8508-7ef8ce80ebd4" name="Default Changelist" comment="" />
+    <list default="true" id="284c0ba5-7f56-4f73-8508-7ef8ce80ebd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="151">
@@ -23,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="821" column="67" lean-forward="true" selection-start-line="821" selection-start-column="67" selection-end-line="821" selection-end-column="67" />
+            <state relative-caret-position="12315">
+              <caret line="821" column="67" selection-start-line="821" selection-start-column="67" selection-end-line="821" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -68,7 +70,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/art_gallery.github.io" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,40 +82,22 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="716" />
-    <option name="y" value="27" />
-    <option name="width" value="640" />
-    <option name="height" value="741" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Agata Broniszewska Galeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Agata Broniszewska Galeria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Agata Broniszewska Galeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Agata Broniszewska Galeria" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Courses/complete-javascript-course-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,14 +137,16 @@
       <workItem from="1542636028928" duration="306000" />
       <workItem from="1542636467260" duration="241000" />
       <workItem from="1544116639009" duration="912000" />
+      <workItem from="1544117767959" duration="383000" />
+      <workItem from="1544447641252" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19712000" />
+    <option name="totallyTimeSpent" value="20121000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="716" y="25" width="650" height="743" extended-state="4" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2482043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -214,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="821" column="67" lean-forward="true" selection-start-line="821" selection-start-column="67" selection-end-line="821" selection-end-column="67" />
+        <state relative-caret-position="12315">
+          <caret line="821" column="67" selection-start-line="821" selection-start-column="67" selection-end-line="821" selection-end-column="67" />
         </state>
       </provider>
     </entry>

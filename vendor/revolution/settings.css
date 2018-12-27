@@ -1074,7 +1074,7 @@ img.tp-slider-alternative-image	{
   -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
   border-radius: 100%;
   display: inline-block;
-  -webkit-animation: tp-bouncedelay 1.4s infinite ease-in-out;
+  -webkit-animation: tp-bouncedelay 3s infinite ease-in-out;
   animation: tp-bouncedelay 1.4s infinite ease-in-out;
   /* Prevent first frame from flickering when animation starts */
   -webkit-animation-fill-mode: both;
@@ -1082,13 +1082,13 @@ img.tp-slider-alternative-image	{
 }
 
 .tp-loader.spinner3 .bounce1 {
-  -webkit-animation-delay: -0.32s;
-  animation-delay: -0.32s;
+  -webkit-animation-delay: -0.5;
+  animation-delay: -0.5;
 }
 
 .tp-loader.spinner3 .bounce2 {
-  -webkit-animation-delay: -0.16s;
-  animation-delay: -0.16s;
+  -webkit-animation-delay: -0.5;
+  animation-delay: -0.5;
 }
 
 @-webkit-keyframes tp-bouncedelay {

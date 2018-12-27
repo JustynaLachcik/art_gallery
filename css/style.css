@@ -709,6 +709,7 @@ input, textarea {
 
 #project-section .project-gallery .grid-item {
     width: 33.33333333333%;
+    height: 100%;
     padding: 0 15px;
     margin-bottom: 32px;
     float: left;
@@ -718,6 +719,8 @@ input, textarea {
 #project-section .project-gallery .single-img {
     position: relative;
     overflow: hidden;
+    width: 100%;
+    height: 100%;
 }
 
 #project-section .project-gallery .single-img .opacity {
@@ -1158,7 +1161,6 @@ a.more_info, a.more_info:hover{
 }
 
 #our-client .client-slider h6 {
-    text-transform: capitalize;
     margin-bottom: 45px;
 }
 
